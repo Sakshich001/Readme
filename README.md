@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m currently working on something cool 😎<br>📚 I'm currently learning Golang, Terraform and Cloud Native <br>💬 Ask me about DevOps♾️ and Cloud☁️<br>📫 How to reach me: sakshic814@gmail.com<br>🔎View my GitHub Repositories on : https://github.com/Sakshich001</p>
+<p align="left">✨ I’m currently working on something cool 😎<br>📚 I'm currently learning Golang, Terraform and Cloud Native <br>💬 Ask me about DevOps♾️ and Cloud☁️<br>📫 How to reach me: <a href="mailto:sakshic814@gmail.com">sakshic814@gmail.com</a><br>🔎View my GitHub Repositories on : https://github.com/Sakshich001</p>
 
 ###
 
